@@ -1,4 +1,4 @@
-# Mercato F23 - Retail Sales Performance & Customer Insights (Power BI)
+# Mercato F23 - Retail Performance & Customer Insights (Power BI)
 
 This project analyzes multi-year retail sales performance for **Mercato F23**, a fictional department store, using the Tableau *Sample Superstore* dataset adapted for portfolio use.
 
